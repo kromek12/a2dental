@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/www.sublimacionelchinelo.com/';
-$config['site_url'] = 'http://localhost/www.sublimacionelchinelo.com/';
+$config['base_url'] = 'http://www.sublimacionelchinelo.com/';
+$config['site_url'] = 'http://www.sublimacionelchinelo.com/';
 $config['index_page'] = '';
 $config['uri_protocol']	= 'REQUEST_URI';
 $config['url_suffix'] = '';
